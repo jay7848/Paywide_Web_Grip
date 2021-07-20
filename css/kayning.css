@@ -1,0 +1,182 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #EBEBEB;
+}
+
+
+
+#kayning_img {
+    position: absolute;
+    top: 6.5%;
+    left: 7%;
+
+    width: 20.8%;
+    height: auto;
+    margin: 20px;
+    z-index: 0;
+
+
+    
+}
+
+#pay_rect {
+    position: absolute;
+    top: 6.5%;
+    left: 30.5%;
+
+    width: 60%;
+    height: auto;
+    margin: 20px;
+    z-index: 0;
+}
+
+
+
+#transfr_img {
+    position: absolute;
+    top: 12.5%;
+    left: 36.2%;
+
+    width: 23%;
+    height: auto;
+      
+}
+
+#card_img {
+    position: absolute;
+    top: 12.5%;
+    left: 63%;
+
+    width: 25%;
+    height: auto;
+}
+
+#monthspend_img {
+    position: absolute;
+    top: 67%;
+    left: 36.2%;
+
+    width: 11%;
+    height: auto;
+}
+
+#monthoutcome_img {
+    position: absolute;
+    top: 67%;
+    left: 48.2%;
+
+    width: 11%;
+    height: auto;
+}
+
+.n_ame {
+    width: 15.3vw;
+    height: 2.3vw;
+    -ms-border-radius: 63px;
+    -o-border-radius: 63px;
+    -moz-border-radius: 63px;
+    -webkit-border-radius: 63px;
+    border-radius: 12px;
+    border: 2px solid #000000;
+    background:#DFDFDF;
+    font-family: Poppins;
+    font-size: 1.2vw;
+    color:#000000;
+    padding-left: 20px;
+    padding-right: 20px;
+    position: absolute;
+    top: 24.8%;
+    left: 38.9%;
+}
+
+.t_name {
+    width: 15.3vw;
+    height: 2.3vw;
+    -ms-border-radius: 63px;
+    -o-border-radius: 63px;
+    -moz-border-radius: 63px;
+    -webkit-border-radius: 63px;
+    border-radius: 12px;
+    border: 2px solid #000000;
+    background:#DFDFDF;
+    font-family: Poppins;
+    font-size: 1.2vw;
+    color:#000000;
+    padding-left: 20px;
+    padding-right: 20px;
+    position: absolute;
+    top: 36.4%;
+    left: 38.9%;
+}
+
+.a_mount {
+    width: 15.3vw;
+    height: 2.3vw;
+    -ms-border-radius: 63px;
+    -o-border-radius: 63px;
+    -moz-border-radius: 63px;
+    -webkit-border-radius: 63px;
+    border-radius: 12px;
+    border: 2px solid #000000;
+    background:#DFDFDF;
+    font-family: Poppins;
+    font-size: 1.2vw;
+    color:#000000;
+    padding-left: 20px;
+    padding-right: 20px;
+    position: absolute;
+    top: 46%;
+    left: 38.9%;
+}
+
+.btn {
+    position: absolute;
+    top: 52%;
+    left: 42.8%;
+
+    width: 8%;
+    height: auto;
+    font-family: Arial;
+    background-color: #004EFC;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+
+    cursor: pointer;
+    border-radius: 12px;
+}
+
+
+.error {
+    font-family: Arial;
+    font-size: 15px;
+    color: red;
+    position: absolute;
+    top: 20%;
+    left: 38.9%;
+}
+
+.error2 {
+    font-family: Arial;
+    font-size: 15px;
+    color: red;
+    position: absolute;
+    top: 18.3%;
+    left: 38.9%;
+}
+
+.back_btn {
+    position: absolute;
+    top: 1%;
+    left: 90%;
+
+    width: 4%;
+    height: auto;
+}

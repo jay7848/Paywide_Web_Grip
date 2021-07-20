@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #EBEBEB;
+}
+
+.products-page {
+    width: 85%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 0 auto;
+    margin-top: 40px;
+
+
+}
+
+.title4 {
+    font-family: Poppins;
+    font-size: 3vw;
+    line-height: 50px;
+    font-weight: bold;
+    text-align: center;
+    color:#00000;
+    margin-top: 20px;
+}
+
+.products {
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    padding: 10px;
+}
+
+.products a img {
+    
+    width: 80%;
+    height: auto;
+    margin: 10px;
+}
+
+.products img {
+    width: 15%;
+    height: auto;
+}
+
+.back_btn {
+    position: absolute;
+    top: 3%;
+    left: 90%;
+
+    width: 4%;
+    height: auto;
+}
+
+.trans_btn {
+    position: absolute;
+    top: 3%;
+    left: 70%;
+
+    width: 16.5%;
+    height: auto;
+}

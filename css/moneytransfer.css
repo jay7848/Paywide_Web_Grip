@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #EBEBEB;
+}
+
+.products-page {
+    width: 88%;
+    height: auto;
+    margin: 0 auto;
+}
+
+.title4 {
+    font-family: Poppins;
+    font-size: 3vw;
+    line-height: 50px;
+    font-weight: bold;
+    text-align: center;
+    color:#00000;
+    margin-top: 20px;
+}
+
+.products {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    padding: 10px;
+}
+
+.products #profile {
+    margin: 40px;
+    width: 30%;
+    height: auto;
+}
+
+.products #transfer {
+    margin: 40px;
+    width: 88%;
+    height: auto;
+}
+
+input {
+    position: absolute;
+    top: 35%;
+    left: 39.40%;
+    width: 262px;
+    height: 48px;
+    background:rgba(255,255,255,1);
+}
